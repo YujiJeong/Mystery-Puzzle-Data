@@ -1,5 +1,5 @@
 # Mystery-Puzzle-Data
-Exploratory data analysis with Python Woohoo! I clean and manipulate this mystery data (I'm not given any information on the data prior to the analysis) with Python’s Pandas library. I also visualize data with matplotlib.
+Exploratory data analysis with Python Woohoo! I clean and manipulate this mystery data (I'm not given any information on the data prior to the analysis!) with Python’s Pandas library. I also visualize data with matplotlib.
 
 See **'solving_puzzle_data.ipynb'** to see the main exploratory data analysis.'solving_puzzle_data.ipynb' analyzes with 'puzzle.csv' and 'global-airports.geojson'
 
